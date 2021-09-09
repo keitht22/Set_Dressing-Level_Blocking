@@ -49,7 +49,10 @@ ExportedObj/
 *.mdb.meta
 
 # Unity3D generated file on crash reports
+Thumbs.db
 sysinfo.txt
+/Users/tylerkeith/Documents/Fall 21/G300/First-Repo/Set_Dressing-Level_Blocking/Temp/
+/Users/tylerkeith/Documents/Fall 21/G300/First-Repo/Set_Dressing-Level_Blocking/Library/
 
 # Builds
 *.apk
@@ -57,4 +60,3 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
-
