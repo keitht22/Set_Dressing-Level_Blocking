@@ -17,16 +17,16 @@ MonoBehaviour:
     overrideState: 1
     value: 1
   colored:
-    overrideState: 1
+    overrideState: 0
     value: 1
   intensity:
-    overrideState: 1
+    overrideState: 0
     value: 0
   size:
-    overrideState: 1
+    overrideState: 0
     value: 1
   lumContrib:
-    overrideState: 1
+    overrideState: 0
     value: 0.8
 --- !u!114 &-1228579292551061809
 MonoBehaviour:
@@ -90,7 +90,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 0
+    value: 1.62
   threshold:
     overrideState: 0
     value: 1
